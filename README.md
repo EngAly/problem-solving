@@ -10,3 +10,7 @@
 - [x] ReverseIntegerSolution   
 - https://redquark.org/leetcode/0007-reverse-integer/
 - https://medium.com/@ManBearPigCode/how-to-reverse-a-number-mathematically-97c556626ec6
+
+
+- [x] PalindromeNumberSolution
+- https://www.code-recipe.com/post/palindrome-number

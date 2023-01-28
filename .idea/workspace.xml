@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc4d01d-4a94-4c3a-8b67-55f3a5f21020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ps/reverse/ReverseIntegerSolution1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +39,12 @@
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ReverseIntegerSolution1">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ps.reverse" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ps.palindrome.ReverseIntegerSolution2">
     <configuration name="FindLongestSubstringSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ps.substring.FindLongestSubstringSolution1" />
       <module name="problem-solving" />
@@ -54,12 +58,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseIntegerSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PalindromeNumberSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ps.palindrome.PalindromeNumberSolution1" />
+      <module name="problem-solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ps.palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ps.palindrome.ReverseIntegerSolution2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ps.palindrome.ReverseIntegerSolution2" />
+      <module name="problem-solving" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ps.palindrome.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ps.reverse.ReverseIntegerSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ps.reverse.ReverseIntegerSolution1" />
       <module name="problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ps.reverse.*" />
+          <option name="PATTERN" value="ps.palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,7 +99,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseIntegerSolution1" />
+        <item itemvalue="Application.ps.palindrome.ReverseIntegerSolution2" />
+        <item itemvalue="Application.PalindromeNumberSolution1" />
+        <item itemvalue="Application.ps.reverse.ReverseIntegerSolution1" />
         <item itemvalue="Application.FindLongestSubstringSolution1" />
       </list>
     </recent_temporary>
@@ -82,7 +114,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1674896119807</updated>
-      <workItem from="1674896121263" duration="4303000" />
+      <workItem from="1674896121263" duration="7164000" />
     </task>
     <servers />
   </component>
