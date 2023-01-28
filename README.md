@@ -18,3 +18,7 @@
 
 - [x] GenerateParenthesesSolution
 - https://www.tutorialcup.com/leetcode-solutions/generate-parentheses-leetcode-solution.htm
+
+
+- [x] ValidParenthesesSolution
+- https://redquark.org/leetcode/0020-valid-parentheses/

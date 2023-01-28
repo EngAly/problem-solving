@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcc4d01d-4a94-4c3a-8b67-55f3a5f21020" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ps/generate_parenteses/GenerateParenthesesSolution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ps/valid_parentheses/ValidParenthesesSolution1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +45,13 @@
       <recent name="ps.reverse" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ps.generate_parenteses.GenerateParenthesesSolution1">
-    <configuration name="FindLongestSubstringSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ps.substring.FindLongestSubstringSolution1" />
+  <component name="RunManager" selected="Application.ValidParenthesesSolution1">
+    <configuration name="PalindromeNumberSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ps.palindrome.PalindromeNumberSolution1" />
       <module name="problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ps.substring.*" />
+          <option name="PATTERN" value="ps.palindrome.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PalindromeNumberSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ps.palindrome.PalindromeNumberSolution1" />
+    <configuration name="ValidParenthesesSolution1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ps.valid_parentheses.ValidParenthesesSolution1" />
       <module name="problem-solving" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ps.palindrome.*" />
+          <option name="PATTERN" value="ps.valid_parentheses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ValidParenthesesSolution1" />
         <item itemvalue="Application.ps.generate_parenteses.GenerateParenthesesSolution1" />
         <item itemvalue="Application.ps.palindrome.ReverseIntegerSolution2" />
         <item itemvalue="Application.PalindromeNumberSolution1" />
         <item itemvalue="Application.ps.reverse.ReverseIntegerSolution1" />
-        <item itemvalue="Application.FindLongestSubstringSolution1" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +130,7 @@
       <option name="presentableId" value="Default" />
       <updated>1674896119807</updated>
       <workItem from="1674896121263" duration="8800000" />
-      <workItem from="1674930678627" duration="2484000" />
+      <workItem from="1674930678627" duration="3211000" />
     </task>
     <servers />
   </component>
