@@ -14,3 +14,7 @@
 
 - [x] PalindromeNumberSolution
 - https://www.code-recipe.com/post/palindrome-number
+
+
+- [x] GenerateParenthesesSolution
+- https://www.tutorialcup.com/leetcode-solutions/generate-parentheses-leetcode-solution.htm
